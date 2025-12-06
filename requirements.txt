@@ -1,0 +1,5 @@
+keyboard
+discord_webhook
+pyinstaller
+requests
+colorama
